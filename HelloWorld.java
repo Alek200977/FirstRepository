@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("Hello world!!");
         System.out.println("branch Master");
         System.out.println("New branch");
+        System.out.println("Line from User2");
     }
 }
